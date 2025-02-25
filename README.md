@@ -4,6 +4,7 @@
 This project analyzes customer churn in a telecommunications company. The goal is to identify key factors influencing churn and provide data-driven recommendations to improve customer retention.
 
 ### Dataset Used
+- <a href = "https://github.com/ikechidiogo19/Telsco-churn-analysis/blob/main/Telsco%20analysis.xlsx">Dataset</a>
 
 ### Business Questions Addressed
 - Are male and female customers more likely to churn?
