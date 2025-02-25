@@ -1,4 +1,4 @@
-# Customer Churn Analysis
+# Telsco Customer Churn Analysis
 
 ### Project Overview
 This project analyzes customer churn in a telecommunications company. The goal is to identify key factors influencing churn and provide data-driven recommendations to improve customer retention.
@@ -22,6 +22,8 @@ This project analyzes customer churn in a telecommunications company. The goal i
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ### Dashboard
+![Screenshot 2025-02-25 093708](https://github.com/user-attachments/assets/2b4855b5-5d53-41ca-b98d-3169e896a79f)
+
 
 ### Project insight
 - female customers having a churn rate of 50.24%, while male customers had a churn rate of 49.76%. This indicated that gender was not a significant factor in churn behavior.
