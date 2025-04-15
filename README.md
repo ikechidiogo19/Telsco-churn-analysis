@@ -1,12 +1,21 @@
-# Telsco Customer Churn Analysis
+# 📊 Customer Churn Analysis
+The analysis explores customer churn patterns based on various demographic and service-related factors. Key insights include churn rates by gender, contract type, payment methods, senior citizen status, tech support availability, internet service type, and total charges. 
 
-### Project Overview
+---
+
+### 🧠 Project Overview
+
 This project analyzes customer churn in a telecommunications company. The goal is to identify key factors influencing churn and provide data-driven recommendations to improve customer retention.
 
-### Dataset Used
-- <a href = "https://github.com/ikechidiogo19/Telsco-churn-analysis/blob/main/Telsco%20analysis.xlsx">Dataset</a>
+---
 
-### Business Questions Addressed
+### 📂 Dataset
+
+- **Source:** <a href = "https://github.com/ikechidiogo19/Telsco-churn-analysis/blob/main/Telsco%20analysis.xlsx">Dataset</a>
+- **Format:** CSV
+---
+
+### ❓ Business/Research Questions
 - Are male and female customers more likely to churn?
 - Are customers with certain contract type more likely to churn?
 - Is there a correlation between payment method and churn?
@@ -16,25 +25,48 @@ This project analyzes customer churn in a telecommunications company. The goal i
 - Which payment method is commonly used by long-term customers?
 - Are customers with higher total charges less likely to churn?
 
-### Process
+---
+
+### 🛠 Methodology
+- **Data Cleaning**
 - verify data for any missing values and anomalies and sort out the same.
 - made sure data is consistent and clean with respect to data type, data format and values used.
+
+---
+
+### 📈 Analysis and Visualizations
+
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+  
 
-### Dashboard
 ![Screenshot 2025-02-25 093708](https://github.com/user-attachments/assets/2b4855b5-5d53-41ca-b98d-3169e896a79f)
 
+---
 
-### Project insight
-- female customers having a churn rate of 50.24%, while male customers had a churn rate of 49.76%. This indicated that gender was not a significant factor in churn behavior.
-- senior citizens had a higher churn rate (74.53%) compared to younger customers (25.47%), suggesting that older customers were more likely to leave the service.
-- customers without tech support were significantly more likely to churn.
--  customers who paid via electronic checks had the highest churn while those using mailed checks, bank transfers, or credit cards had considerably lower churn rates.
--  fiber optic internet service had the highest churn rate.
--  customers on month-to-month contracts experiencing the highest churn, In contrast, those with one-year and two-year contracts had significantly lower churn rates
+### 📌 Findings
+- Female customers churn more than males.
+- Month-to-month contracts have the highest churn, followed by one-year and two-year contracts.
+- Customers using electronic checks churn most frequently.
+- Younger customers churn more (74.53%) compared to seniors (25.47%).
+- Customers without tech support churn more (1,446 cases).
+- Fiber optic users have the highest churn rate (1,297 cases).
+- Higher charges do not correlate with lower churn.
 
-### Recommendation
-- company should encourage customers to opt for long-term contracts
-- providing better tech support services could significantly lower churn
-- promote more stable payment methods, such as automatic bank transfers or credit card payments
+---
+
+### 🧾 Recommendation
+- Focus retention efforts on female customers, month-to-month contract holders, and fiber optic users.
+- Incentivize customers to switch to annual contracts to reduce churn.
+- Enhance tech support accessibility to retain customers.
+- Encourage automated payment methods (bank transfer, credit card) to reduce churn linked to electronic checks.
+
+---
+
+### ⚙️ Technologies Used
+
+- Excel
+
+---
+
+
