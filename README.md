@@ -37,10 +37,10 @@ This project analyzes customer churn in a telecommunications company. The goal i
 ### 📈 Analysis and Visualizations
 
 - Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Merge all pivot tables
+- created a dynamic dashboard on power bi
   
-
-![Screenshot 2025-02-25 093708](https://github.com/user-attachments/assets/2b4855b5-5d53-41ca-b98d-3169e896a79f)
+![churn](https://github.com/user-attachments/assets/6fbeab89-fecb-4068-b208-69bfe2cf77be)
 
 ---
 
@@ -66,6 +66,7 @@ This project analyzes customer churn in a telecommunications company. The goal i
 ### ⚙️ Technologies Used
 
 - Excel
+- Power bi
 
 ---
 
